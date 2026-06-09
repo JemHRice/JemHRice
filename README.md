@@ -1,8 +1,8 @@
 # Hi, I'm Jem 👋
 
-Data Analyst turned ML Engineer, on a focused path into AI and deep learning. Six months ago I was managing operations for a non-profit. Today I'm building neural networks from scratch and deploying ML applications.
+Data Analyst turned ML Engineer, on a focused path into AI and deep learning. Six months ago I was managing operations for a non-profit. Today I'm shipping open-source AI tools, building neural networks from scratch, and working through reinforcement learning fundamentals.
 
-Currently working through deep learning fundamentals and reinforcement learning — with the long-term goal of working at the frontier of AI development.
+Currently working through deep learning fundamentals and reinforcement learning, with the long-term goal of working at the frontier of AI development.
 
 ---
 
@@ -10,11 +10,13 @@ Currently working through deep learning fundamentals and reinforcement learning 
 
 | Project | Description | Stack | Demo |
 |---------|-------------|-------|------|
-| [House Price Predictor](https://github.com/JemHRice/house-price-predictor) | End-to-end ML app — data cleaning, model selection, deployed predictor | Python, Streamlit, scikit-learn | [Live](https://house-price-predictor-7ge62jlm4m3awhc4py5cz8.streamlit.app/) |
+| [OwnYourShip](https://github.com/JemHRice/ownyourship) | CLI tool that quizzes vibe coders on their own codebases. Local FastAPI server, Anthropic Haiku API, SQLite progress tracking, multi-language scanner | Python, FastAPI, SQLite, Anthropic API | Open source |
+| [Transformer Visualiser](https://github.com/JemHRice/transformer-visualise-app) | Interactive app visualising multi-head attention in transformers, built to understand the architecture behind modern LLMs | Python, Streamlit | - |
+| [House Price Predictor](https://github.com/JemHRice/house-price-predictor) | End-to-end ML app on real Sydney housing data: XGBoost regressor at 95.27% R², engineered domain features, deployed live on Streamlit | Python, XGBoost, Streamlit, scikit-learn | [Live](https://house-price-predictor-7ge62jlm4m3awhc4py5cz8.streamlit.app/) |
 | [Sales Dashboard](https://github.com/JemHRice/sales-dashboard-streamlit) | Interactive analytics dashboard with filters, KPIs, and visualisations | Python, Streamlit, Plotly | [Live](https://sales-dashboard-app-apqgm8pdigxzwfgqoytteg.streamlit.app/) |
-| [Neural Net from Scratch](https://github.com/JemHRice/neural-net) | Perceptron and MLP built in pure NumPy — no ML libraries | Python, NumPy | — |
-| [LSTM Slogan Model](https://github.com/JemHRice/lstm-slogan-model) | Two LSTM models: slogan generator and slogan classifier | Python, TensorFlow, Keras | — |
-| [Power BI Sales Analysis](https://github.com/JemHRice/power-bi-sales-analysis) | Star schema data model, 15+ DAX measures, $8.9M recovery identified | Power BI, DAX | — |
+| [Neural Net from Scratch](https://github.com/JemHRice/neural-net) | Perceptron and MLP built in pure NumPy, no ML libraries | Python, NumPy | - |
+| [LSTM Slogan Model](https://github.com/JemHRice/lstm-slogan-model) | Two LSTM models: slogan generator and slogan classifier | Python, TensorFlow, Keras | - |
+| [Power BI Sales Analysis](https://github.com/JemHRice/power-bi-sales-analysis) | Star schema data model, 15+ DAX measures, $8.9M recovery identified | Power BI, DAX | - |
 
 ---
 
@@ -35,7 +37,7 @@ Currently working through deep learning fundamentals and reinforcement learning 
 ## 📚 Currently Learning
 
 - Fast.ai Practical Deep Learning (Part 1)
-- Reinforcement Learning — Sutton & Barto
+- Reinforcement Learning: Sutton & Barto
 - Implementing ML algorithms from scratch
 
 ---
