@@ -11,7 +11,7 @@ Currently working through deep learning fundamentals and reinforcement learning,
 | Project | Description | Stack | Demo |
 |---------|-------------|-------|------|
 | [OwnYourShip](https://github.com/JemHRice/ownyourship) | CLI tool that quizzes vibe coders on their own codebases. Local FastAPI server, Anthropic Haiku API, SQLite progress tracking, multi-language scanner | Python, FastAPI, SQLite, Anthropic API | Open source |
-| [Transformer Visualiser](https://github.com/JemHRice/transformer-visualise-app) | Interactive app visualising multi-head attention in transformers, built to understand the architecture behind modern LLMs | Python, Streamlit | - |
+| [Transformer Visualiser](https://github.com/JemHRice/transformer-visualise-app) | Interactive app visualising multi-head attention in transformers, built to understand the architecture behind modern LLMs | Python, Streamlit | [Live](https://transformer-visualise-app-akxrdapmcxbfelbunmzjr9.streamlit.app/) |
 | [House Price Predictor](https://github.com/JemHRice/house-price-predictor) | End-to-end ML app on real Sydney housing data: XGBoost regressor at 95.27% R², engineered domain features, deployed live on Streamlit | Python, XGBoost, Streamlit, scikit-learn | [Live](https://house-price-predictor-7ge62jlm4m3awhc4py5cz8.streamlit.app/) |
 | [Sales Dashboard](https://github.com/JemHRice/sales-dashboard-streamlit) | Interactive analytics dashboard with filters, KPIs, and visualisations | Python, Streamlit, Plotly | [Live](https://sales-dashboard-app-apqgm8pdigxzwfgqoytteg.streamlit.app/) |
 | [Neural Net from Scratch](https://github.com/JemHRice/neural-net) | Perceptron and MLP built in pure NumPy, no ML libraries | Python, NumPy | - |
