@@ -1,54 +1,35 @@
 # Hi, I'm Jem 👋
 
-Data Analyst turned ML Engineer, on a focused path into AI and deep learning. Six months ago I was managing operations for a non-profit. Today I'm shipping open-source AI tools, building neural networks from scratch, and working through reinforcement learning fundamentals.
+**Data Analyst** with a machine learning focus, based in Sydney. I spent 3.5
+years running operations and P&L for a community sports non-profit, then made
+a deliberate pivot into data: 99% average in the HyperionDev/UNSW Data Science
+Bootcamp, Microsoft PL-300 certified, and a portfolio of deployed projects
+below.
 
-Currently working through deep learning fundamentals and reinforcement learning, with the long-term goal of working at the frontier of AI development.
-
----
-
-## 🚀 Projects
-
-| Project | Description | Stack | Demo |
-|---------|-------------|-------|------|
-| [OwnYourShip](https://github.com/JemHRice/ownyourship) | CLI tool that quizzes vibe coders on their own codebases. Local FastAPI server, Anthropic Haiku API, SQLite progress tracking, multi-language scanner | Python, FastAPI, SQLite, Anthropic API | Open source |
-| [Transformer Visualiser](https://github.com/JemHRice/transformer-visualise-app) | Interactive app visualising multi-head attention in transformers, built to understand the architecture behind modern LLMs | Python, Streamlit | [Live](https://transformer-visualise-app-akxrdapmcxbfelbunmzjr9.streamlit.app/) |
-| [House Price Predictor](https://github.com/JemHRice/house-price-predictor) | End-to-end ML app on real Sydney housing data: XGBoost regressor at 95.27% R², engineered domain features, deployed live on Streamlit | Python, XGBoost, Streamlit, scikit-learn | [Live](https://house-price-predictor-7ge62jlm4m3awhc4py5cz8.streamlit.app/) |
-| [Sales Dashboard](https://github.com/JemHRice/sales-dashboard-streamlit) | Interactive analytics dashboard with filters, KPIs, and visualisations | Python, Streamlit, Plotly | [Live](https://sales-dashboard-app-apqgm8pdigxzwfgqoytteg.streamlit.app/) |
-| [Neural Net from Scratch](https://github.com/JemHRice/neural-net) | Perceptron and MLP built in pure NumPy, no ML libraries | Python, NumPy | - |
-| [LSTM Slogan Model](https://github.com/JemHRice/lstm-slogan-model) | Two LSTM models: slogan generator and slogan classifier | Python, TensorFlow, Keras | - |
-| [Power BI Sales Analysis](https://github.com/JemHRice/power-bi-sales-analysis) | Star schema data model, 15+ DAX measures, $8.9M recovery identified | Power BI, DAX | - |
+I build things to understand them. Everything here runs.
 
 ---
 
-## 🛠 Skills
+## 🚀 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-- Fast.ai Practical Deep Learning (Part 1)
-- Reinforcement Learning: Sutton & Barto
-- Implementing ML algorithms from scratch
+| Project | What it does | Stack | Live |
+|---|---|---|---|
+| [OwnYourShip](https://github.com/JemHRice/ownyourship) | CLI that quizzes you on your own LLM-generated code — you shouldn't ship what you can't explain | Python, FastAPI, SQLite, Anthropic API | — |
+| [House Price Predictor](https://github.com/JemHRice/house-price-predictor) | XGBoost model, 95.27% R² on Sydney property data, 67% error reduction vs baseline | Python, XGBoost, Streamlit | [Live](https://house-price-predictor-7ge62jlm4m3awhc4py5cz8.streamlit.app/) |
+| [Neural Net from Scratch](https://github.com/JemHRice/neural-net) | Full MLP in pure NumPy — 97.28% on MNIST, 2.2x faster than sklearn | Python, NumPy | — |
+| [Transformer Attention Visualiser](https://github.com/JemHRice/transformer-visualise-app) | Interactive app showing attention patterns forming in real time — 500+ users | Python, NumPy, Streamlit | [Live](https://transformer-visualise-app-akxrdapmcxbfelbunmzjr9.streamlit.app/) |
+| [RL Foundations: Sutton & Barto](https://github.com/JemHRice/sutton-barto-rl) | Every algorithm from Chapters 1–13, tabular (NumPy) + deep (PyTorch) | Python, PyTorch, Gymnasium | [Live](https://sutton-barto-rl-eajnsbsvvdoygeyktohrju.streamlit.app/) |
+| [Power BI Sales Analysis](https://github.com/JemHRice/power-bi-sales-analysis) | Star schema + 15 DAX measures; surfaced $8.9M recovery opportunity | Power BI, DAX | — |
 
 ---
 
-## ✍️ Blog
+## 🛠 Stack
 
-Documenting the journey on [Dev.to](https://dev.to/jemhrice)
+Python · SQL (PostgreSQL, SQLite) · Pandas · NumPy · scikit-learn · XGBoost ·
+PyTorch · TensorFlow · Power BI (PL-300) · Streamlit · Git · Docker
 
 ---
 
-## 📫 Connect
+## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jemhrice)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/jemhrice)
+[LinkedIn](https://www.linkedin.com/in/jem-herbert-rice-4017491a6/) · [Blog on Dev.to](https://dev.to/jemhrice) · jemhrice536@gmail.com
